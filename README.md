@@ -1,6 +1,13 @@
 # LearnGit
 
 Simple react page having basic commands and description of git.
+
+# output
+
+![](./src/components/img1.jpeg)
+![](./src/components/img2.jpeg)
+![](./src/components/img3.jpeg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
