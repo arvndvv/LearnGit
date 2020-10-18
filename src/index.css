@@ -70,7 +70,7 @@ details p b {
   top: 0;
   height: 100%;
   transition: all 0.5s ease;
-  border-right: 23em solid #0366a0;
+  border-right: 100vw solid #0366a0;
   border-top: 3em solid transparent;
   transform-origin: right;
   -moz-transform-origin: right;
@@ -212,4 +212,15 @@ header::after {
   outline: none;
 
   color: #ddd;
+}
+@media only screen and (min-width: 600px) {
+  .learn-btn,
+  .usr {
+    float: left;
+  }
+}
+@media only screen and (max-width: 460px) {
+  .menu p {
+    left: 0;
+  }
 }

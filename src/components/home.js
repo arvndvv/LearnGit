@@ -87,9 +87,8 @@ function Home() {
         </div>
         <br />
         <div className="col-12 ">
-          {" "}
           <button className=" learn-btn btn btn-primary" onClick={handleLearn}>
-            Learn Essentials
+            Learn Basic
           </button>
         </div>
       </div>

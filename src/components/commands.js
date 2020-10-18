@@ -171,7 +171,7 @@ function Commands({ user, setLearn }) {
           that have occurred in a project.
         </p>
       </div>
-      <code className="d-block my-3">
+      <code className="d-block my-3 px-2">
         Now basics you need to know, inorder to keep track of your project
         locally, has been covered! There are more features and commands which is
         out of scope for this page.
